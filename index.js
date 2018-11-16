@@ -1,4 +1,4 @@
 module.exports = (req, res) => {
 	
-  res.end(`<b>The date is ${Date.now()}<b>`)
+  res.end(`<b>The date iz ${Date.now()}<b>`)
 }
